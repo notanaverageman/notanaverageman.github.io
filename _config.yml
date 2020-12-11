@@ -1,1 +1,22 @@
-theme: jekyll-theme-cayman
+remote_theme: jekyll/minima
+markdown: kramdown
+show_excerpts: true
+
+minima:
+  skin: dark
+  date_format: "%Y/%m/%d"
+  social_links:
+    github: notanaverageman
+    stackoverflow: "3670437"
+
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "Yusuf Tarık Günaydın"
+
+title: NotAnAverageMan
