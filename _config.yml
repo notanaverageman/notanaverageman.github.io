@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-sitemap
+
 remote_theme: jekyll/minima
 markdown: kramdown
 show_excerpts: true
