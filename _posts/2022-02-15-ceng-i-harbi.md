@@ -11,7 +11,7 @@ tags:
 excerpt_separator: <!--end_excerpt-->
 ---
 
-10 vuruşluk yürük ve eğlenceli bir usul.
+10 zamanlı yürük ve eğlenceli bir usul.
 <!--end_excerpt-->
 Nazariyat kitaplarında tanımı iki nim sofyan ve iki semainin birleşimi diye tarif ediliyor.[^1][^2][^3] Tarif edilen vuruş kalıbı ise bahsedilen parçaların açılımı olarak şu şekilde:
 
