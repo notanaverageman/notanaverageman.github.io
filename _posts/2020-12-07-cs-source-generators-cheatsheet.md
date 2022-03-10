@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "C# Source Generators Cheatsheet"
+title: C# Source Generators Cheatsheet
 date: 2020-12-07 13:52:49
 tags:
   - C#
