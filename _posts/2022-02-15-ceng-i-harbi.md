@@ -7,8 +7,6 @@ tags:
   - Müzik
   - Musiki
   - Usul
-
-excerpt_separator: <!--end_excerpt-->
 ---
 
 10 zamanlı yürük ve eğlenceli bir usul.

@@ -4,6 +4,7 @@ plugins:
 remote_theme: jekyll/minima
 markdown: kramdown
 show_excerpts: true
+excerpt_separator: <!--end_excerpt-->
 
 minima:
   skin: dark
