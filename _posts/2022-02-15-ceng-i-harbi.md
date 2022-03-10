@@ -7,9 +7,13 @@ tags:
   - Müzik
   - Musiki
   - Usul
+
+excerpt_separator: <!--end_excerpt-->
 ---
 
-10 vuruşluk yürük ve eğlenceli bir usul. Nazariyat kitaplarında tanımı iki nim sofyan ve iki semainin birleşimi diye tarif ediliyor.[^1][^2][^3] Tarif edilen vuruş kalıbı ise bahsedilen parçaların açılımı olarak şu şekilde:
+10 vuruşluk yürük ve eğlenceli bir usul.
+<!--end_excerpt-->
+Nazariyat kitaplarında tanımı iki nim sofyan ve iki semainin birleşimi diye tarif ediliyor.[^1][^2][^3] Tarif edilen vuruş kalıbı ise bahsedilen parçaların açılımı olarak şu şekilde:
 
 ![Düm8 tek8 düm8 tek8 düm8 tek8 tek8 düm8 tek8 tek8](/assets/images/10_8_ceng_i_harbi_nazariyat.png)
 

@@ -5,9 +5,13 @@ date: 2020-12-07 13:52:49
 tags:
   - C#
   - Source Generators
+
+excerpt_separator: <!--end_excerpt-->
 ---
 
 Project files and code snippets for C# source generators.
+
+<!--end_excerpt-->
 
 - [Csproj Files](#csproj-files)
     - [**`Application.csproj`**](#applicationcsproj)
