@@ -25,7 +25,7 @@ Bu kaynaklarda diğer pek çok usul için örnek bir eser varken bu usul için �
 6. [Mahur Marş - Önde Sancak Koşarız Cenge Biz - Cahit Öney](https://divanmakam.com/attachments/onde-sancak-kosariz-cenge-biz-cahit-oney-doktor-mahur-v1-pdf.43421/)
 7. [Rast Oyun Havası](https://divanmakam.com/attachments/oyun-havasi-belirsiz-rast-v1-pdf.65343/)
 
-Neva Ceng-i Harbi olarak bilinen mehter marşının usulü ise ceng-i harbi değil, sofyandır.
+Neva Ceng-i Harbi olarak bilinen mehter marşının usulü ise ceng-i harbi değil, sofyan. Buradaki Ceng-i Harbi muhtemelen eserin formunu ya da ismini belirtiyor.
 
 Rodos Semahı 3 + 3 + 2 + 2, Gerdaniye Ağıt 3 + 2 + 2 + 3, diğer eserler ise 2 + 2 + 3 + 3 şeklinde vuruluyorlar. Teknik olarak bunları farklı usuller olarak kabul etmek mümkün olsa da pratikte hepsine ceng-i harbi usulü demek mümkün.
 
